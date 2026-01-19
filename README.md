@@ -9,7 +9,11 @@
 
 ---
 # 💫 About Me:
-I’m a Computer Science graduate student interested in building scalable full-stack systems,<br>intelligent AI-driven applications, and clean, user-focused software.<br><br>
+I build systems that scale and solve real problems. As a Software Engineer pursuing my Master's in CS at UCF (4.0 GPA), I specialize in designing robust backend architectures, developing full-stack solutions, and implementing intelligent ML systems. From engineering high-performance Java applications to building secure REST APIs and training deep learning models, I deliver production-ready code that drives impact.
+💻 Software Engineer | Java | Full-Stack | Python & Machine Learning
+🎓 Master's in Computer Science @ UCF | 4.0 GPA
+🎯 Seeking SWE/SDE roles where I can architect scalable solutions
+📍 Orlando, FL
 
 
 ## 🌐 Socials:
