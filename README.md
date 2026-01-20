@@ -1,11 +1,11 @@
 <!-- Cover -->
 <p align="center">
-  <img src="./cover_photo.png" width="100%" />
+  <img src="./banner.png" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   MS Computer Science @ UCF • Full-Stack • AI/ML • Cloud
-</p>
+</p> -->
 
 ---
 
